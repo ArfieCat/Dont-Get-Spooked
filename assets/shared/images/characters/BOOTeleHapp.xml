@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BOOTeleHapp.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GhostDownHapp0000" x="2" y="2" width="505" height="546" frameX="-21" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0001" x="2" y="2" width="505" height="546" frameX="-21" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0002" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0003" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0004" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0005" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0006" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0007" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0008" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0009" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0010" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0011" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0012" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0013" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0014" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0015" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0016" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0017" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0018" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0019" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0020" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHapp0021" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0000" x="2" y="2" width="505" height="546" frameX="-21" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0001" x="2" y="2" width="505" height="546" frameX="-21" frameY="-9" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0002" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0003" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0004" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0005" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0006" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0007" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0008" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0009" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0010" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0011" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0012" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0013" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0014" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0015" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0016" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0017" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0018" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0019" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0020" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0021" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0022" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0023" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0024" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0025" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0026" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0027" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0028" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0029" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0030" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0031" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0032" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0033" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0034" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0035" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0036" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0037" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0038" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0039" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0040" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0041" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0042" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0043" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0044" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0045" x="509" y="2" width="547" height="535" frameX="-1" frameY="-4" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0046" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0047" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0048" x="1058" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0049" x="1614" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0050" x="1614" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0051" x="2170" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0052" x="2170" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0053" x="2726" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0054" x="2726" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0055" x="3282" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0056" x="3282" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0057" x="3838" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0058" x="3838" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0059" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0060" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0061" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0062" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0063" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0064" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0065" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0066" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0067" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0068" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0069" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0070" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0071" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0072" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0073" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0074" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0075" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0076" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0077" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0078" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostDownHappFade0079" x="4394" y="2" width="554" height="538" frameX="0" frameY="0" frameWidth="554" frameHeight="555"/>
+	<SubTexture name="GhostIdleHapp0000" x="4950" y="2" width="572" height="541" frameX="0" frameY="-4" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0001" x="4950" y="2" width="572" height="541" frameX="0" frameY="-4" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0002" x="5524" y="2" width="568" height="543" frameX="-2" frameY="-4" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0003" x="5524" y="2" width="568" height="543" frameX="-2" frameY="-4" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0004" x="6094" y="2" width="562" height="545" frameX="-4" frameY="-3" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0005" x="6094" y="2" width="562" height="545" frameX="-4" frameY="-3" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0006" x="6658" y="2" width="555" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0007" x="6658" y="2" width="555" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0008" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0009" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0010" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0011" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0012" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostIdleHapp0013" x="7215" y="2" width="553" height="548" frameX="-4" frameY="0" frameWidth="572" frameHeight="548"/>
+	<SubTexture name="GhostLeftHapp0000" x="2" y="552" width="446" height="554" frameX="0" frameY="-2" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0001" x="2" y="552" width="446" height="554" frameX="0" frameY="-2" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0002" x="450" y="552" width="436" height="555" frameX="-25" frameY="-1" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0003" x="450" y="552" width="436" height="555" frameX="-25" frameY="-1" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0004" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0005" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0006" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0007" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0008" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0009" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0010" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0011" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0012" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0013" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0014" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0015" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0016" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0017" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0018" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0019" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0020" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostLeftHapp0021" x="888" y="552" width="435" height="556" frameX="-29" frameY="0" frameWidth="464" frameHeight="556"/>
+	<SubTexture name="GhostRightHapp0000" x="1325" y="552" width="512" height="557" frameX="-5" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0001" x="1325" y="552" width="512" height="557" frameX="-5" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0002" x="1839" y="552" width="533" height="552" frameX="-3" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0003" x="1839" y="552" width="533" height="552" frameX="-3" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0004" x="2374" y="552" width="546" height="551" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0005" x="2374" y="552" width="546" height="551" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0006" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0007" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0008" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0009" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0010" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0011" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0012" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0013" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostRightHapp0014" x="2922" y="552" width="551" height="549" frameX="0" frameY="0" frameWidth="551" frameHeight="557"/>
+	<SubTexture name="GhostUpHapp0000" x="3475" y="552" width="561" height="541" frameX="-33" frameY="0" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0001" x="3475" y="552" width="561" height="541" frameX="-33" frameY="0" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0002" x="4038" y="552" width="592" height="532" frameX="-14" frameY="-10" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0003" x="4038" y="552" width="592" height="532" frameX="-14" frameY="-10" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0004" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0005" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0006" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0007" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0008" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0009" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0010" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0011" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0012" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0013" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="GhostUpHapp0014" x="4632" y="552" width="605" height="526" frameX="0" frameY="-17" frameWidth="606" frameHeight="543"/>
+	<SubTexture name="Ghost_Opens door0000" x="5239" y="552" width="577" height="547" frameX="0" frameY="-15" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0001" x="5239" y="552" width="577" height="547" frameX="0" frameY="-15" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0002" x="5818" y="552" width="587" height="548" frameX="-11" frameY="-4" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0003" x="5818" y="552" width="587" height="548" frameX="-11" frameY="-4" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0004" x="6407" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0005" x="6407" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0006" x="6999" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0007" x="6999" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0008" x="7591" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0009" x="7591" y="552" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0010" x="2" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0011" x="2" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0012" x="2" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0013" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0014" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0015" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0016" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0017" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0018" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0019" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0020" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0021" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0022" x="594" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0023" x="1186" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0024" x="1186" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0025" x="1186" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0026" x="1778" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0027" x="1778" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0028" x="1778" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0029" x="2370" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0030" x="2370" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0031" x="2370" y="1111" width="590" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0032" x="2962" y="1111" width="578" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0033" x="2962" y="1111" width="578" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0034" x="3542" y="1111" width="545" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0035" x="3542" y="1111" width="545" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0036" x="4089" y="1111" width="552" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0037" x="4089" y="1111" width="552" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0038" x="4643" y="1111" width="554" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0039" x="4643" y="1111" width="554" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_Opens door0040" x="4643" y="1111" width="554" height="547" frameX="-15" frameY="0" frameWidth="605" frameHeight="562"/>
+	<SubTexture name="Ghost_TeleButton0000" x="5199" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0001" x="5199" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0002" x="5715" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0003" x="5715" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0004" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0005" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0006" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0007" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0008" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0009" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0010" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0011" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0012" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0013" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0014" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0015" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0016" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0017" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0018" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0019" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0020" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0021" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0022" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButton0023" x="6231" y="1111" width="514" height="548"/>
+	<SubTexture name="Ghost_TeleButtonBruh0000" x="6747" y="1111" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0001" x="6747" y="1111" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0002" x="7263" y="1111" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0003" x="7263" y="1111" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0004" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0005" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0006" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0007" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0008" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0009" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0010" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0011" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0012" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0013" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0014" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0015" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0016" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0017" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0018" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0019" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0020" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0021" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0022" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0023" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0024" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0025" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0026" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0027" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0028" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0029" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0030" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0031" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0032" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0033" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0034" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleButtonBruh0035" x="2" y="1661" width="514" height="547"/>
+	<SubTexture name="Ghost_TeleDown0000" x="518" y="1661" width="602" height="542" frameX="-3" frameY="-18" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0001" x="518" y="1661" width="602" height="542" frameX="-3" frameY="-18" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0002" x="1122" y="1661" width="593" height="535" frameX="0" frameY="-3" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0003" x="1122" y="1661" width="593" height="535" frameX="0" frameY="-3" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0004" x="1717" y="1661" width="576" height="532" frameX="-9" frameY="0" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0005" x="1717" y="1661" width="576" height="532" frameX="-9" frameY="0" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0006" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0007" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0008" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0009" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0010" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0011" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0012" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0013" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0014" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0015" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0016" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0017" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0018" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0019" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0020" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0021" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0022" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0023" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0024" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0025" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0026" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0027" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0028" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0029" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0030" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0031" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0032" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0033" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0034" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0035" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0036" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0037" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0038" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0039" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0040" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0041" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0042" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0043" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0044" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0045" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0046" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0047" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0048" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0049" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0050" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleDown0051" x="2295" y="1661" width="569" height="530" frameX="-12" frameY="-1" frameWidth="605" frameHeight="560"/>
+	<SubTexture name="Ghost_TeleGlare0000" x="2866" y="1661" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleGlare0001" x="2866" y="1661" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleGlare0002" x="2866" y="1661" width="538" height="549"/>
+	<SubTexture name="Ghost_TeleLeft0000" x="3406" y="1661" width="604" height="550" frameX="0" frameY="0" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0001" x="3406" y="1661" width="604" height="550" frameX="0" frameY="0" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0002" x="4012" y="1661" width="608" height="546" frameX="0" frameY="-2" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0003" x="4012" y="1661" width="608" height="546" frameX="0" frameY="-2" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0004" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0005" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0006" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0007" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0008" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0009" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0010" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0011" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0012" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0013" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0014" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0015" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0016" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0017" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0018" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0019" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0020" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0021" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0022" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0023" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0024" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0025" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0026" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0027" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0028" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0029" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0030" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0031" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0032" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0033" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0034" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleLeft0035" x="4622" y="1661" width="609" height="545" frameX="0" frameY="-3" frameWidth="609" frameHeight="550"/>
+	<SubTexture name="Ghost_TeleRight0000" x="5233" y="1661" width="585" height="547" frameX="0" frameY="0" frameWidth="589" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight0001" x="5233" y="1661" width="585" height="547" frameX="0" frameY="0" frameWidth="589" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight0002" x="5820" y="1661" width="589" height="546" frameX="0" frameY="-1" frameWidth="589" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight0003" x="5820" y="1661" width="589" height="546" frameX="0" frameY="-1" frameWidth="589" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleRight0004" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0005" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0006" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0007" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0008" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0009" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0010" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleRight0011" x="6411" y="1661" width="589" height="548"/>
+	<SubTexture name="Ghost_TeleStill0000" x="7002" y="1661" width="578" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill0001" x="7002" y="1661" width="578" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill0002" x="7582" y="1661" width="586" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill0003" x="7582" y="1661" width="586" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill0004" x="2" y="2213" width="588" height="548"/>
+	<SubTexture name="Ghost_TeleStill0005" x="2" y="2213" width="588" height="548"/>
+	<SubTexture name="Ghost_TeleStill0006" x="592" y="2213" width="578" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_TeleStill0007" x="592" y="2213" width="578" height="548" frameX="0" frameY="0" frameWidth="588" frameHeight="548"/>
+	<SubTexture name="Ghost_Tele_Default0000" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0001" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0002" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0003" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0004" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0005" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0006" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0007" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0008" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0009" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0010" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0011" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0012" x="1712" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0013" x="1712" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0014" x="1712" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0015" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0016" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0017" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0018" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0019" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0020" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0021" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0022" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0023" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0024" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0025" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0026" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0027" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0028" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0029" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0030" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0031" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0032" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0033" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0034" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Default0035" x="1172" y="2213" width="538" height="548"/>
+	<SubTexture name="Ghost_Tele_Up0000" x="2252" y="2213" width="519" height="544" frameX="0" frameY="-1" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0001" x="2252" y="2213" width="519" height="544" frameX="0" frameY="-1" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0002" x="2773" y="2213" width="521" height="543" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0003" x="2773" y="2213" width="521" height="543" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0004" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0005" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0006" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0007" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0008" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0009" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0010" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0011" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0012" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0013" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0014" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0015" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0016" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0017" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0018" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0019" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0020" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0021" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0022" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0023" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0024" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0025" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0026" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0027" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0028" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0029" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0030" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0031" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0032" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0033" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0034" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Tele_Up0035" x="3296" y="2213" width="524" height="542" frameX="-12" frameY="0" frameWidth="536" frameHeight="545"/>
+	<SubTexture name="Ghost_Telephone10000" x="3822" y="2213" width="530" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10001" x="3822" y="2213" width="530" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10002" x="4354" y="2213" width="435" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10003" x="4791" y="2213" width="457" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10004" x="4791" y="2213" width="457" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10005" x="5250" y="2213" width="531" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10006" x="5250" y="2213" width="531" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10007" x="5783" y="2213" width="559" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10008" x="5783" y="2213" width="559" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10009" x="6344" y="2213" width="578" height="548"/>
+	<SubTexture name="Ghost_Telephone10010" x="6344" y="2213" width="578" height="548"/>
+	<SubTexture name="Ghost_Telephone10011" x="6924" y="2213" width="577" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10012" x="6924" y="2213" width="577" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10013" x="7503" y="2213" width="577" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10014" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10015" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10016" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10017" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10018" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10019" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10020" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10021" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10022" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10023" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10024" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10025" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+	<SubTexture name="Ghost_Telephone10026" x="2" y="2763" width="554" height="548" frameX="0" frameY="0" frameWidth="578" frameHeight="548"/>
+</TextureAtlas>

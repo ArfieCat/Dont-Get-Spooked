@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				13,
+				541
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF_Idle"
+		},
+		{
+			"offsets": [
+				70,
+				600
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BF_Left"
+		},
+		{
+			"offsets": [
+				-90,
+				591
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BF_Right"
+		},
+		{
+			"offsets": [
+				-90,
+				570
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BF_Up"
+		},
+		{
+			"offsets": [
+				0,
+				590
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BF_Down"
+		},
+		{
+			"offsets": [
+				70,
+				649
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BFMissLeft"
+		},
+		{
+			"offsets": [
+				-90,
+				630
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BFMissUp"
+		},
+		{
+			"offsets": [
+				0,
+				659
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BFMissDown"
+		},
+		{
+			"offsets": [
+				-50,
+				583
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BFMissRight"
+		},
+		{
+			"offsets": [
+				632,
+				568
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "KnockonDoor1",
+			"indices": [],
+			"name": "BF_KnockonDoor1"
+		},
+		{
+			"offsets": [
+				0,
+				560
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "BF_Shock"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				490
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "BF_Button",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TheBoyman",
+	"position": [
+		0,
+		530
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		3,
+		214,
+		246
+	],
+	"camera_position": [
+		920,
+		-900
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				24,
+				419
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt2",
+			"loop": false,
+			"name": "GhostGone2"
+		},
+		{
+			"offsets": [
+				105,
+				348
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hurt1",
+			"loop": false,
+			"name": "GhostGone2"
+		},
+		{
+		"offsets": [
+			105,
+			348
+		],
+		"indices": [],
+		"fps": 24,
+		"anim": "idle",
+		"loop": false,
+		"name": "GhostGone2"
+	    }   
+	],
+	"no_antialiasing": false,
+	"image": "characters/BooGone",
+	"position": [
+		0,
+		-50
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		35,
+		255
+	],
+	"camera_position": [
+		250,
+		-100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

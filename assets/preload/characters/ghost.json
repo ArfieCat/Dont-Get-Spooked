@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-69,
+				-8
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GhostDownNorm",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-95,
+				-50
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "GhostIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-86,
+				-51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GhostUpNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				-44
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GhostLeftNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-90,
+				-50
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GhostRightNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-101,
+				-30
+			],
+			"anim": "Shockog",
+			"fps": 24,
+			"name": "GhostShockOg",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-72,
+				-27
+			],
+			"anim": "Shock1",
+			"fps": 24,
+			"name": "Ghost_Shock3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-117,
+				-40
+			],
+			"anim": "Shockagain",
+			"fps": 24,
+			"name": "Ghost_Shock4",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-100,
+				-30
+			],
+			"anim": "lookie",
+			"fps": 24,
+			"name": "GhostLookaround",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BOONormie",
+	"position": [
+		0,
+		-160
+	],
+	"healthicon": "ghost",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		65,
+		242
+	],
+	"camera_position": [
+		250,
+		-200
+	],
+	"sing_duration": 4,
+	"scale": 1.6
+}
