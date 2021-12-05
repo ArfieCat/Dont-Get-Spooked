@@ -62,7 +62,7 @@
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN-alt",
+			"anim": "fade",
 			"indices": [],
 			"name": "GhostDownHappFade"
 		}
@@ -70,7 +70,7 @@
 	"no_antialiasing": false,
 	"image": "characters/BOOTeleHapp",
 	"position": [
-		650,
+		660,
 		-50
 	],
 	"healthicon": "ghost",

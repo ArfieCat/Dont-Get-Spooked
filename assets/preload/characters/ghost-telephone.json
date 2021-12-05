@@ -9,7 +9,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Ghost_TeleStill"
+			"name": "Ghost_Tele_Default"
 		},
 		{
 			"offsets": [
@@ -103,7 +103,7 @@
 	"no_antialiasing": false,
 	"image": "characters/BOOTeleHapp",
 	"position": [
-		650,
+		660,
 		-50
 	],
 	"healthicon": "ghost",

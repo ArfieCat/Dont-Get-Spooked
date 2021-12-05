@@ -1014,7 +1014,7 @@
 						""
 					],
 					[
-						119181.034482759,
+						119586.206896552,
 						-1,
 						"Change Character",
 						"1",
@@ -1128,7 +1128,15 @@
 				"lengthInSteps": 16,
 				"altAnim": false,
 				"typeOfSection": 0,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						139034.482758621,
+						-1,
+						"Play Animation",
+						"fade",
+						"Dad"
+					]
+				],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false

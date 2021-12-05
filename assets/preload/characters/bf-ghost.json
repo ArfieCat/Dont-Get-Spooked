@@ -180,8 +180,8 @@
 	"no_antialiasing": false,
 	"image": "characters/TheBoyman",
 	"position": [
-		0,
-		100
+		20,
+		110
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -195,5 +195,5 @@
 		0
 	],
 	"sing_duration": 4,
-	"scale": 0.9
+	"scale": 0.8
 }

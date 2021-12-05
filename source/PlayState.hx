@@ -343,25 +343,29 @@ class PlayState extends MusicBeatState
 				}
 
             case 'house': //boo Week
-				var bg:BGSprite = new BGSprite('NightSky', -20, -20, 0.9, 0.9);
+				var bg:BGSprite = new BGSprite('NightSky', -20, -20);
                 add(bg);
 
-				door = new BGSprite('DoorAnim', 20, 80, 0.9, 0.9,['DoorCloseFast', 'DoorOpenSlow', 'DoorOpenFast', 'DoorClosed']);
+				door = new BGSprite('DoorAnim', 60, 90, ['DoorCloseFast', 'DoorOpenSlow', 'DoorOpenFast', 'DoorClosed']);
 				door.setGraphicSize(Std.int(door.width * 1.2));
                 door.animation.play('DoorClosed');
 				add(door);
 
-				silence1 = new BGSprite('Font1', 0, 0, 0, 0, ['Font1']);
-				silence1.alpha = 0;
+				silence1 = new BGSprite('Font1', 0, 0, ['Font1']);
+				silence1.setGraphicSize(Std.int(silence1.width * 0.8));
+				silence1.alpha = 1;
 
-				silence2 = new BGSprite('Font2', 0, 0, 0, 0, ['Font2']);
-				silence2.alpha = 0;
+				silence2 = new BGSprite('Font2', 0, 500, ['Font2']);
+				silence2.setGraphicSize(Std.int(silence2.width * 0.8));
+				silence2.alpha = 1;
 
-				silence3 = new BGSprite('Font3', 0, 0, 0, 0, ['Font3']);
-				silence3.alpha = 0;
+				silence3 = new BGSprite('Font3', 0, 100, ['Font3']);
+				silence3.setGraphicSize(Std.int(silence3.width * 0.8));
+				silence3.alpha = 1;
 
-				silence4 = new BGSprite('Font4', 0, 0, 0, 0, ['Font4']);
-				silence4.alpha = 0;
+				silence4 = new BGSprite('Font4', -200, 50, ['Font4']);
+				silence4.setGraphicSize(Std.int(silence4.width * 0.8));
+				silence4.alpha = 1;
 		}
 
 		if(isPixelStage) {
@@ -1989,6 +1993,8 @@ class PlayState extends MusicBeatState
 							}
 
 							var wasGf:Bool = dad.curCharacter.startsWith('gf');
+							// otherwise changing characters always sets alpha to 1
+							var oldAlpha:Float = dad.alpha;
 							dad.visible = false;
 							dad = dadMap.get(value2);
 							if(!dad.curCharacter.startsWith('gf')) {
@@ -1999,7 +2005,7 @@ class PlayState extends MusicBeatState
 								gf.visible = false;
 							}
 							if(!dad.alreadyLoaded) {
-								dad.alpha = 1;
+								dad.alpha = oldAlpha;
 								dad.alreadyLoaded = true;
 							}
 							dad.visible = true;
