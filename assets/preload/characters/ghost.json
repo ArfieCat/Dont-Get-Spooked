@@ -3,19 +3,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-69,
-				-8
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "GhostDownNorm",
-			"indices": []
-		},
-		{
-			"loop": true,
-			"offsets": [
-				-95,
-				-50
+				0,
+				0
 			],
 			"anim": "idle",
 			"fps": 24,
@@ -25,8 +14,19 @@
 		{
 			"loop": false,
 			"offsets": [
-				-86,
-				-51
+				10,
+				-10
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GhostDownNorm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -36,8 +36,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-118,
-				-44
+				20,
+				0
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -47,8 +47,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-90,
-				-50
+				0,
+				0
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -58,10 +58,21 @@
 		{
 			"loop": false,
 			"offsets": [
-				-101,
-				-30
+				10,
+				0
 			],
-			"anim": "Shockog",
+			"anim": "openDoor",
+			"fps": 24,
+			"name": "Ghost_Open's door",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "shockOG",
 			"fps": 24,
 			"name": "GhostShockOg",
 			"indices": []
@@ -69,10 +80,32 @@
 		{
 			"loop": false,
 			"offsets": [
-				-72,
-				-27
+				0,
+				0
 			],
-			"anim": "Shock1",
+			"anim": "idleShock",
+			"fps": 24,
+			"name": "Ghost_Shock ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "lookaround",
+			"fps": 24,
+			"name": "GhostLookaround",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				20
+			],
+			"anim": "shock3",
 			"fps": 24,
 			"name": "Ghost_Shock3",
 			"indices": []
@@ -80,10 +113,10 @@
 		{
 			"loop": false,
 			"offsets": [
-				-117,
-				-40
+				0,
+				0
 			],
-			"anim": "Shockagain",
+			"anim": "shock4",
 			"fps": 24,
 			"name": "Ghost_Shock4",
 			"indices": []
@@ -91,20 +124,42 @@
 		{
 			"loop": false,
 			"offsets": [
-				-100,
-				-30
+				0,
+				0
 			],
-			"anim": "lookie",
+			"anim": "idleScared",
 			"fps": 24,
-			"name": "GhostLookaround",
+			"name": "Ghost_Scared",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				20,
+				-10
+			],
+			"anim": "gone1",
+			"fps": 24,
+			"name": "GhostGone1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				10,
+				20
+			],
+			"anim": "gone2",
+			"fps": 24,
+			"name": "GhostGone2",
 			"indices": []
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/BOONormie",
 	"position": [
-		0,
-		-160
+		650,
+		-50
 	],
 	"healthicon": "ghost",
 	"flip_x": false,
@@ -114,9 +169,9 @@
 		242
 	],
 	"camera_position": [
-		250,
-		-200
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1.6
+	"scale": 1
 }

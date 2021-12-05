@@ -2,19 +2,19 @@
 	"animations": [
 		{
 			"offsets": [
-				13,
-				541
+				0,
+				0
 			],
-			"loop": true,
+			"loop": false,
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "BF_Idle"
+			"name": "BF_Idle0"
 		},
 		{
 			"offsets": [
-				70,
-				600
+				60,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -24,8 +24,8 @@
 		},
 		{
 			"offsets": [
-				-90,
-				591
+				-100,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -35,8 +35,8 @@
 		},
 		{
 			"offsets": [
-				-90,
-				570
+				-100,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -46,8 +46,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				590
+				-40,
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -57,8 +57,8 @@
 		},
 		{
 			"offsets": [
-				70,
-				649
+				60,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -68,8 +68,8 @@
 		},
 		{
 			"offsets": [
-				-90,
-				630
+				-100,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -79,8 +79,8 @@
 		},
 		{
 			"offsets": [
-				0,
-				659
+				-40,
+				-20
 			],
 			"loop": false,
 			"fps": 24,
@@ -90,8 +90,8 @@
 		},
 		{
 			"offsets": [
-				-50,
-				583
+				-100,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -101,19 +101,41 @@
 		},
 		{
 			"offsets": [
-				632,
-				568
+				440,
+				0
 			],
 			"loop": false,
 			"fps": 24,
-			"anim": "KnockonDoor1",
+			"anim": "knockOnDoor",
 			"indices": [],
 			"name": "BF_KnockonDoor1"
 		},
 		{
 			"offsets": [
 				0,
-				560
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idleStill",
+			"indices": [],
+			"name": "BF_IdleStill"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				0
+			],
+			"anim": "bruh",
+			"fps": 24,
+			"name": "BF_Button",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
 			],
 			"loop": false,
 			"fps": 24,
@@ -122,22 +144,44 @@
 			"name": "BF_Shock"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
-				490
+				0
 			],
-			"anim": "bruh",
+			"loop": true,
 			"fps": 24,
-			"name": "BF_Button",
-			"indices": []
+			"anim": "idleStillShock",
+			"indices": [],
+			"name": "BF_StillShock"
+		},
+		{
+			"offsets": [
+				440,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "knockOnDoor2",
+			"indices": [],
+			"name": "Door Knock 2"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "waiting",
+			"indices": [],
+			"name": "BF Waiting"
 		}
 	],
-	"no_antialiasing": true,
+	"no_antialiasing": false,
 	"image": "characters/TheBoyman",
 	"position": [
 		0,
-		530
+		100
 	],
 	"healthicon": "bf",
 	"flip_x": true,
@@ -147,9 +191,9 @@
 		246
 	],
 	"camera_position": [
-		920,
-		-900
+		0,
+		0
 	],
 	"sing_duration": 4,
-	"scale": 1.7
+	"scale": 0.9
 }

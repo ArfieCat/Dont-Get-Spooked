@@ -20,7 +20,22 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						5379.31034482759,
+						-1,
+						"Play Animation",
+						"knockOnDoor",
+						"BF"
+					],
+					[
+						5383.62068965517,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -35,7 +50,15 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						10862.0689655172,
+						-1,
+						"Play Animation",
+						"openDoor",
+						"Dad"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -148,13 +171,42 @@
 						16965.5172413793,
 						6,
 						827.586206896552
+					],
+					[
+						18000,
+						-1,
+						"Play Animation",
+						"bruh",
+						"BF"
+					],
+					[
+						16965.5172413793,
+						-1,
+						"Play Animation",
+						"shockOG",
+						"Dad"
+					],
+					[
+						16969.8275862069,
+						-1,
+						"Alt Idle Animation",
+						"Dad",
+						"Shock"
 					]
 				],
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						19551.724137931,
+						-1,
+						"Play Animation",
+						"lookaround",
+						"Dad"
+					]
+				],
 				"mustHitSection": true
 			},
 			{
@@ -169,7 +221,29 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						23172.4137931035,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						""
+					],
+					[
+						23176.724137931,
+						-1,
+						"Play Animation",
+						"shock3",
+						"Dad"
+					],
+					[
+						23181.0344827586,
+						-1,
+						"Alt Idle Animation",
+						"Dad",
+						""
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -651,6 +725,20 @@
 						49655.1724137931,
 						7,
 						724.137931034483
+					],
+					[
+						50586.2068965517,
+						-1,
+						"Play Animation",
+						"shock4",
+						"Dad"
+					],
+					[
+						50590.5172413793,
+						-1,
+						"Alt Idle Animation",
+						"Dad",
+						"Scared"
 					]
 				],
 				"mustHitSection": true
@@ -762,14 +850,58 @@
 					[
 						53379.3103448276,
 						6,
-						517.241379310345
+						517.241379310345,
+						"No Animation"
+					],
+					[
+						54206.8965517241,
+						-1,
+						"Play Animation",
+						"shock",
+						"BF"
+					],
+					[
+						54211.2068965517,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"StillShock"
+					],
+					[
+						53379.3103448276,
+						-1,
+						"Play Animation",
+						"gone1",
+						"Dad"
+					],
+					[
+						53383.6206896552,
+						-1,
+						"Alt Idle Animation",
+						"Dad",
+						""
 					]
 				],
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						56068.9655172414,
+						-1,
+						"Change Character",
+						"BF",
+						"bf-ghost-confused"
+					],
+					[
+						56081.8965517241,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -779,13 +911,35 @@
 						56275.8620689655,
 						5,
 						310.344827586207
+					],
+					[
+						57724.1379310345,
+						-1,
+						"Change Character",
+						"BF",
+						"bf-ghost"
+					],
+					[
+						57728.4482758621,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
 					]
 				],
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						57931.0344827586,
+						-1,
+						"Play Animation",
+						"knockOnDoor2",
+						"BF"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -801,7 +955,15 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						61241.3793103448,
+						-1,
+						"Play Animation",
+						"openDoor",
+						"Dad"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -887,13 +1049,42 @@
 						65793.1034482759,
 						3,
 						310.344827586207
+					],
+					[
+						66000,
+						-1,
+						"Change Character",
+						"1",
+						"ghost-telephone"
 					]
 				],
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						66206.8965517241,
+						-1,
+						"Play Animation",
+						"shock",
+						"BF"
+					],
+					[
+						66211.2068965517,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"StillShock"
+					],
+					[
+						66215.5172413793,
+						-1,
+						"Play Animation",
+						"telephone",
+						"Dad"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -909,6 +1100,13 @@
 						68068.9655172414,
 						1,
 						0
+					],
+					[
+						68896.5517241379,
+						-1,
+						"Play Animation",
+						"button",
+						"Dad"
 					]
 				],
 				"mustHitSection": false
@@ -1015,6 +1213,20 @@
 						74379.3103448276,
 						0,
 						0
+					],
+					[
+						73965.5172413793,
+						-1,
+						"Play Animation",
+						"waiting",
+						"BF"
+					],
+					[
+						73969.8275862069,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
 					]
 				],
 				"mustHitSection": false
@@ -1047,6 +1259,13 @@
 						75724.1379310344,
 						0,
 						0
+					],
+					[
+						75310.3448275862,
+						-1,
+						"Play Animation",
+						"glare",
+						"Dad"
 					]
 				],
 				"mustHitSection": true
@@ -1063,6 +1282,20 @@
 						76965.5172413793,
 						0,
 						724.137931034483
+					],
+					[
+						76137.9310344827,
+						-1,
+						"Play Animation",
+						"buttonBruh",
+						"Dad"
+					],
+					[
+						76344.8275862069,
+						-1,
+						"Change Character",
+						"1",
+						"ghost"
 					]
 				],
 				"mustHitSection": false
@@ -1134,6 +1367,13 @@
 						79034.4827586207,
 						3,
 						310.344827586207
+					],
+					[
+						77793.1034482758,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						""
 					]
 				],
 				"mustHitSection": true
@@ -1189,14 +1429,37 @@
 					[
 						81000,
 						5,
-						620.689655172414
+						620.689655172414,
+						"No Animation"
+					],
+					[
+						81000,
+						-1,
+						"Play Animation",
+						"gone2",
+						"Dad"
 					]
 				],
 				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						81517.2413793103,
+						-1,
+						"Play Animation",
+						"shock",
+						"BF"
+					],
+					[
+						81521.5517241379,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"StillShock"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -1211,6 +1474,27 @@
 						85241.3793103448,
 						2,
 						724.137931034483
+					],
+					[
+						84413.7931034482,
+						-1,
+						"Play Animation",
+						"bruh",
+						"BF"
+					],
+					[
+						84418.1034482758,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
+					],
+					[
+						85965.5172413793,
+						-1,
+						"Play Animation",
+						"shock",
+						"BF"
 					]
 				],
 				"mustHitSection": true
@@ -1249,6 +1533,13 @@
 						91034.4827586206,
 						2,
 						0
+					],
+					[
+						91241.3793103448,
+						-1,
+						"Play Animation",
+						"bruh",
+						"BF"
 					]
 				],
 				"mustHitSection": true
@@ -1260,7 +1551,15 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						95275.8620689655,
+						-1,
+						"Play Animation",
+						"waiting",
+						"BF"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -1275,12 +1574,42 @@
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						99310.3448275861,
+						-1,
+						"Play Animation",
+						"shock",
+						"BF"
+					],
+					[
+						99314.6551724137,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"StillShock"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
 				"lengthInSteps": 16,
-				"sectionNotes": [],
+				"sectionNotes": [
+					[
+						102413.793103448,
+						-1,
+						"Change Character",
+						"BF",
+						"bf-ghost-confused"
+					],
+					[
+						102418.103448276,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						"Still"
+					]
+				],
 				"mustHitSection": false
 			},
 			{
@@ -1511,11 +1840,6 @@
 						0
 					],
 					[
-						120062.068965517,
-						1,
-						0
-					],
-					[
 						120413.793103448,
 						1,
 						0
@@ -1539,6 +1863,32 @@
 						120620.689655172,
 						3,
 						0
+					],
+					[
+						120051.724137931,
+						1,
+						0
+					],
+					[
+						119172.413793103,
+						-1,
+						"Change Character",
+						"BF",
+						"bf-ghost"
+					],
+					[
+						119176.724137931,
+						-1,
+						"Alt Idle Animation",
+						"BF",
+						""
+					],
+					[
+						119586.206896552,
+						-1,
+						"Change Character",
+						"1",
+						"ghost-happy"
 					]
 				],
 				"typeOfSection": 0,
@@ -1774,6 +2124,11 @@
 						135517.24137931,
 						4,
 						0
+					],
+					[
+						135517.24137931,
+						3,
+						0
 					]
 				],
 				"typeOfSection": 0,
@@ -1868,12 +2223,13 @@
 					[
 						139034.482758621,
 						6,
-						1551.72413793104
+						2172.41379310345
 					],
 					[
 						139034.482758621,
 						1,
-						2172.41379310345
+						2172.41379310345,
+						"Alt Animation"
 					]
 				],
 				"typeOfSection": 0,
@@ -2548,6 +2904,33 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 160
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 145
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 145
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 145,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"sectionNotes": [],
